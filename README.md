@@ -1,4 +1,4 @@
-# Duck Hunt on FPGA — Xilinx Basys3
+# Duck Hunt on FPGA — Xilinx Basys3 
 
 A simplified version of the classic **Duck Hunt** game implemented on the **Xilinx Basys3 FPGA** using **VHDL**.
 
