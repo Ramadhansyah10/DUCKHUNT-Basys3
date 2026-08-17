@@ -3,7 +3,7 @@ use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.NUMERIC_STD.ALL; 
  
 entity seven_segment is 
-    Port (  
+    Port ( 
         clk      : in STD_LOGIC; 
         rst      : in STD_LOGIC; 
         score_in : in integer; 
