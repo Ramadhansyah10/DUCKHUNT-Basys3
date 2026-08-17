@@ -1,7 +1,7 @@
 library ieee; 
 use ieee.std_logic_1164.all; 
 use ieee.numeric_std.all; 
- 
+
 entity vga_640x480 is 
     port ( 
         clk25    : in std_logic; 
